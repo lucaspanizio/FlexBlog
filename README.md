@@ -13,7 +13,7 @@ O projeto **FlexBlog** foi desenvolvido durante o curso de **CSS Flexbox** da **
 ---
 
 ## 🖥️ Demonstração
-[![FlexBlog](https://i.imgur.com/DIdmfIb.png "Clique para acessar o projeto")](https://lucaspanizio.github.io/flexblog/ "Clique para acessar o projeto")   
+[![FlexBlog](https://i.imgur.com/DIdmfIb.png "Clique para acessar o projeto")](https://lucaspanizio.github.io/flexblog/ "Clique para acessar o projeto")  
 
 Você pode acessar o projeto clicando [aqui](https://lucaspanizio.github.io/flexblog/).
 
