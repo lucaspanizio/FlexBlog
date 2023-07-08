@@ -1,14 +1,12 @@
 # FlexBlog 
 
 ## 📖 Sobre   
-O projeto **FlexBlog** foi desenvolvido durante o curso de **CSS Flexbox** da **[Origamid](https://origamid.com)**. Durante o curso, inicialmente é feita uma introdução à todas as propriedades do flexbox (tanto dos _flex containers_ quanto dos _flex items_) e logo em seguida, aplicamos **na prática** os conceitos aprendidos desenvolvendo o **FlexBlog**, um blog fictício feito utilizando somente as **propriedades Flexbox** do **CSS3**, que resulta em um **design inteiramente responsivo** com utilização mínima de _media queries_. Além disso, implementei um scroll suave dos links internos utilizando **JavaScript**.
+O projeto **FlexBlog** foi desenvolvido durante o curso de **CSS Flexbox** da **[Origamid](https://origamid.com)**. Durante o curso, inicialmente é feita uma introdução à todas as propriedades do flexbox (tanto dos _flex containers_ quanto dos _flex items_) e logo em seguida, aplicamos **na prática** os conceitos aprendidos desenvolvendo o **FlexBlog**, um blog fictício feito utilizando somente as **propriedades Flexbox** do **CSS3**, que resulta em um **design inteiramente responsivo** com utilização mínima de _media queries_.
 
 ---
 
 ## 🚀 Tecnologias e ferramentas utilizadas
-- **HTML5**
-- **CSS3 [Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Conceitos_Basicos_do_Flexbox)**
-- **[VsCode](https://code.visualstudio.com/)** 
+[![My Skills](https://skillicons.dev/icons?i=html,css,vscode)]()
 
 ---
 
